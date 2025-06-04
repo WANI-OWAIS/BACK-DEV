@@ -1,0 +1,23 @@
+//Node.js Bsaics
+
+//Introduction to Node.js
+//Node.js is a js runtime environment built on Chrome's V8 JavaScript engine.
+//It allows developers to run JavaScript on the server side, enabling the creation of scalable and high-performance applications.
+
+
+//Insatalling Node.js and npm
+//Node.js can be installed from the official website (https://nodejs.org/).
+
+//Node & npm
+//working with node and npm
+//npm init
+//node install 
+
+
+//Working with modules
+//File system operations
+
+//understanding HTTP module
+
+// http - protocol
+// yahi protocol hai ya rule hai jisko follow kare bina app internet pe na kuch bhej sakte ho, naa hi kuc manga sakte ho.

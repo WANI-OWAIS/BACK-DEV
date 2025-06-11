@@ -1,0 +1,25 @@
+// NPM understanding
+// NPM - Node Package Manager
+// NPM is a package manager for Node.js, allowing developers to share and reuse code.
+
+
+// Insatalling and uninstalling anything basics & advance
+//install -> npm install <package_name>
+//uninstall -> npm uninstall <package_name>
+//install with specific version -> npm install <package_name>@<version>
+
+
+// understanding node modules
+// node_modules - directory where all installed packages are stored
+
+//dependencies
+//packages and packages ki dependencies
+
+// devdependencies
+//aise packages jo sirf development mai kaam aayege par jab app ban jaayega aur uplod ho jaayega tab hum in packages ko use nhi kar rahe honge.
+// Example: npm i nodemon --save-dev
+
+
+// script - understanding default scripts PATH and custom scripts
+//default scripts - npm start, npm test, npm run build
+//custom scripts - npm run <script_name>

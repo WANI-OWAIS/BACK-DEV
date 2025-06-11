@@ -39,8 +39,8 @@ const fs = require('fs');
 // })
 
 //HTTP protocol
-const http = require('http');
-const server = http.createServer(function(req, res){
-  res.end("Hello from the server!");
-})
-server.listen(3000);
+// const http = require('http');
+// const server = http.createServer(function(req, res){
+//   res.end("Hello from the server!");
+// })
+// server.listen(3000);

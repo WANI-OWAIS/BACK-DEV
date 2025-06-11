@@ -10,6 +10,7 @@
   "author": "owais",
   "license": "ISC",
   "dependencies": {
+    "express": "^5.1.0",
     "one-liner-joke": "^1.2.2"
   }
 }

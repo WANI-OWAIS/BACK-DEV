@@ -1,0 +1,8 @@
+//form handling and working with the forms
+
+//handle backend process of forms and making sure the data coming from any frontend library, framework, templating engines, we still handle it at the backend
+
+//session & cookie
+
+
+//tumne to baja tha plain text par server ko mila blob which is not directly readable ab is cheej ko handle karna padai ga ki hum blob ko waps se redeable kar sake 

@@ -1,0 +1,28 @@
+//initialize a project with npm
+//express install 
+
+//setting up parsers for form
+
+//setting up ejs for ejs pages
+//install ejs from npm
+//setup ejs as a view engine
+
+//setting up public static files
+
+//dynamic routing 2 things
+   //dynamic routing
+//ham log kahe bar kuch routes dekhte hai un mai khaie bar sirf ak he hisa change hota hai 
+//EG : 
+//   /author/harsh
+//   /author/harshita
+//Tht is why dynamic routing comes into action
+//sab se phali browser par jawo
+//url likhye apna jo aapko jo aapko chayiye and  enter dabye
+//ab us url ko create kariyay 
+//response bejyay kuch b
+//ab usi url ko agar dynamic banana hai to realize karo koon sa part dynamic hai or us part ka aage route ma : lagado
+
+
+   //how to get data coming from frontend at backend route
+
+

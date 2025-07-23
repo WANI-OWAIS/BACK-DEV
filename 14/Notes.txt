@@ -1,0 +1,22 @@
+
+authentication => user ko profile dene se phele ye check karna hota hai ke user hai kaun.
+
+authorization => sumit is not authorized  to perform some tasks which are only allowed to be executed by the admin. [kin cheez ka pass apko permit hai kin cheez ka pass nhi].
+
+{} sabse pahle humein kuch cheejein seekhni hai alag alag
+
+1. cookies kaise set karte hai and read karte hai
+
+2. bcrypt kaise use karte hai for password encryption and decryption 
+
+encryption: [gensalt & hash]
+password => qbttxpse
+
+decryption: [compare]
+chacha123 
+$2b$10$xgJFeqVab/qChAI/f/6dQOsaAR5xKRAjxAzu7HnpXAlOPk4V6eqFm
+
+
+3. JWT kya hai and jwt mein data kaise store karein and bhar nikaalein.
+
+JWT 3 hisu sa banta hai
